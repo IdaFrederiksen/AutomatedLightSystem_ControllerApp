@@ -1,4 +1,4 @@
-The Automated Light System controls and adapts aritificial light in a workspace to ensure good working conditions while keeping minimizing power usage.
+The Automated Light System controls and adapts aritificial light in a workspace to ensure good working conditions while minimizing power usage.
 
 To accomplish that we build a 2 part embedded system, only the ControllerApp is a part of this repository:
 
